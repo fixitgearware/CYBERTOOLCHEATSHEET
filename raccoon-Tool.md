@@ -4,7 +4,7 @@
 # THE RACCOON TOOL
 
 <br>
-Is an "Offensive Security" Tool every cybersecurity read-teamer should know. 
+Is an "Offensive Security" Tool every cybersecurity Red-Teamer should know. 
 
 
 
