@@ -8,7 +8,7 @@
 # How to Install The Raccoon Tool: 
 
 <br>
-Here is a quick guide on how to get the raccoon tool installed. 
+Here is a quick video guide on how to get the "Raccoon Tool" installed. 
 
 <br>
 
