@@ -22,8 +22,17 @@ Here is a quick video guide on how to get the "Raccoon Tool" installed.
 
 <br>
 
+<br>
+
+# The Raccoon Tool Command in Action:
 
 
+<br> 
+Want to see how the Cpanel of a Life-Target was discovered using the "Raccoon Tool" ? Watch the Video Below. 
+
+<br>
+
+[![Video Thumbnail](https://img.youtube.com/vi/5MD5ZRlcZcM/0.jpg)](https://youtu.be/5MD5ZRlcZcM?si=__D952TEzT-Xu8d3)
 
 
 <br><br>
