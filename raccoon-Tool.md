@@ -7,7 +7,17 @@
 
 # How to Install The Raccoon Tool: 
 
+<br>
+Here is a quick guide on how to get the raccoon tool installed. 
+
+<br>
+
 [![Video Thumbnail](https://img.youtube.com/vi/k27Ixrpx6Xo/0.jpg)](https://www.youtube.com/watch?v=k27Ixrpx6Xo)
+
+<br>
+
+
+
 
 
 <br><br>
