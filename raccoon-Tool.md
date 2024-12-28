@@ -4,6 +4,12 @@
 # THE RACCOON TOOL
 
 <br>
+Is an "Offensive Security" Tool every cybersecurity read-teamer should know. 
+
+
+
+
+<br>
 
 # How to Install The Raccoon Tool: 
 
