@@ -13,7 +13,7 @@ Copyright (c) 2024 FixitgearwareSecurity.
 <br>
 
 
-<br>
+
 <br>
 <h2>MIT LICENCE</h2>
 <a href="https://github.com/fixitgearware/CYBERTOOLCHEATSHEET/blob/main/LICENSE">Read the MIT-LICENCE</a>
